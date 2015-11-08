@@ -71,6 +71,8 @@ url-pretty: "kmlee17.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
 markdown: redcarpet
+redcarpet:
+  extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
 highlighter: pygments
 permalink: /:year-:month-:day-:title
 paginate: 5
