@@ -271,7 +271,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 36px;
+    font-size: 30px;
   }
 }
 
@@ -286,7 +286,7 @@ header.header-page .page-heading {
 }
 
 header.header-post .post-heading h1 {
-  font-size: 35px;
+  font-size: 30px;
   margin-top: 0;
 }
 
@@ -311,7 +311,7 @@ header.header-post .post-heading .post-subheading {
 
 @media only screen and (min-width: 768px) {
   header.header-post .post-heading h1 {
-    font-size: 40px;
+    font-size: 30px;
   }
 }
 

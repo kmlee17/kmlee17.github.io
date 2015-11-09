@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Why I'm writing this blog...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Kevin and I'm currently in the Galvanize Data Science Immersive Program in SF.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### Why data science?
+I've always been drawn to numbers whether it was studying them in math classes growing up, pouring over sports statistics of my favorite teams and players, or calculating probabilities and expected values at the poker table.
 
-What else do you need?
+#### Why a blog?
+Because we were strongly encouraged to do so!  But seriously, it's a great outlet to formulate and organize my thoughts even if I'm the only one reading them.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+#### Interests
+- Web technology
+- Investment management
+- Bay Area sports teams (Giants, Warriors, Sharks, 49ers)
+- Hip-hop and salsa dance
+- The usual: movies, TV, video games
